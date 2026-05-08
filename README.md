@@ -100,7 +100,7 @@ gpu_monitor/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gpu-monitor.git
+git clone https://github.com/victordirciogallardo/gpu-monitor.git
 cd gpu-monitor
 ```
 
