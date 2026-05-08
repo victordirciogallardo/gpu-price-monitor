@@ -100,8 +100,8 @@ gpu_monitor/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/victordirciogallardo/gpu-monitor.git
-cd gpu-monitor
+git clone https://github.com/victordirciogallardo/gpu-price-monitor.git
+cd gpu-price-monitor
 ```
 
 ### 2. Instalar dependencias
