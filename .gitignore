@@ -1,0 +1,20 @@
+# Credenciales sensibles
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos y logs
+data/
+logs/
+*.log
+*.jsonl
+
+#Scrapy
+./Scrapy
+
+# Sistema
+.DS_Store
+Thumbs.db
